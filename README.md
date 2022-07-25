@@ -26,6 +26,7 @@ I like code and create new stuff, i like too much to discover new technologies a
 
 ### Others:  [![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)](https://jwt.io/)
 
+### Badges
 
 [![carlosg2304 github stats](https://github-readme-stats.vercel.app/api?username=CarlosG2304&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/CarlosG2304)
 
