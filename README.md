@@ -3,7 +3,7 @@
 - 💞️ I'm looking for a job as a web developer
 - 📫 My email is carlosgmr2304@gmail.com
 
-⭐️ Some of the Dev technologies I know.
+Some of the Dev technologies I know.
 
  [![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
  [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
