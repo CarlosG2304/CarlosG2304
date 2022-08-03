@@ -8,8 +8,6 @@
 - 💞️ I'm looking for a job as a web developer
 - 📫 My email is carlosgmr2304@gmail.com
 
-I like code and create new stuff, i like too much to discover new technologies and dive deep in solving problems.
-
 ## Some of the Dev technologies I know.
 
 ### Languages:  [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)  [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)  [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
